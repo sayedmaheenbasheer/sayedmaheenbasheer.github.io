@@ -2,7 +2,7 @@
 <p align="center">
     <h1 align="center">Sayed Maheen Basheer</h1>
     <p align="center">
-        A simple Jekyll theme for academicsc
+        Machine Learning Engineer | Data Scientist
         <br />
         <a href="#table-of-contents"><strong>Explore the docs »</strong></a>
         <br />

@@ -4,5 +4,5 @@
 
 layout: home
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<img src="./zyed.jpg" width="140">
+<!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<img src="./zyed.jpg" width="140"> -->
