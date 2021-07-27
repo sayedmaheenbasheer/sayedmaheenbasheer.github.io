@@ -15,6 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Sayed Maheen Basheer
 email: sayedmaheenbasheer@gmail.com
+author:
+  name: Sayed Maheen Basheer
+  email: mhnpta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My Blog
 baseurl: "" # the subpath of your site, e.g. /blog
