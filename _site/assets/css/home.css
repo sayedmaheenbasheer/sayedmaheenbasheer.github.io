@@ -1,0 +1,11 @@
+.intro{
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+}
+.selfimage{
+    padding-right: 10px;
+}
+.selfintro{
+    padding-top: 10px;
+    padding-left: 20px;
+}
